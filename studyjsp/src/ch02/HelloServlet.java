@@ -1,4 +1,4 @@
-package ch02;
+﻿package ch02;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -36,7 +36,7 @@ public class HelloServlet extends HttpServlet {
 			out.println("<HTML>");
 			out.println("<HEAD><TITLE>처음으로 작성하는 Servlet</TITLE></HEAD>");
 			out.println("<BODY>");
-			out.println("처음을 작성하는 Servlet");
+			out.println("처음을 작성하는 Servlet1");
 			out.println("</BODY>");
 			out.println("<HTML>");
 			out.close();
